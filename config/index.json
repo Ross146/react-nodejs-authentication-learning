@@ -1,0 +1,4 @@
+{
+  "dbUri": "mongodb://localhost:27017/test_login_app",
+  "jwtSecret": "secret secret secret"
+}
